@@ -7,3 +7,12 @@ vendor/*
 .rbenv-version
 .ruby-version
 .rvmrc
+
+# IntelliJ files and folders
+.idea/
+*.iml
+
+# Maven build artifacts
+selenium_e2e/target
+# Personal chromedriver
+selenium_e2e/resources/chromedriver
